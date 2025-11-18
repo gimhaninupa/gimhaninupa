@@ -1,16 +1,58 @@
-## Hi there 👋
+<h1 align="center">Hi, I'm Gimhan Inupa 👨‍💻📸</h1>
+<h3 align="center">Logic meets Light: Software Engineer & Photographer</h3>
 
-<!--
-**gimhaninupa/gimhaninupa** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=gimhaninupa&label=Profile%20views&color=00ADB5&style=flat" alt="gimhaninupa" />
+</p>
 
-Here are some ideas to get you started:
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=E84545&center=true&vCenter=true&multiline=true&width=600&lines=Software+Engineer+%7C+Photographer;Python+%26+Flask+Developer;AI+%26+Computer+Vision+Enthusiast;Building+Digital+Experiences;" alt="Typing SVG" />
+</p>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+- 🔭 I’m currently working on **Full Stack Web Apps & AI Models**
+- 🌱 I’m currently learning **Advanced Cloud Architecture & CI/CD Pipelines**
+- 👨‍💻 All of my projects are available on [gimhaninupa.com](https://gimhaninupa.com)
+- 📸 View my photography gallery at [gimhaninupa.com](https://gimhaninupa.com)
+- 💬 Ask me about **Python, Flask, Computer Vision, and Photography**
+- ⚡ **Fun fact**: I debug code by day and capture light by night 🌙
+
+---
+
+### Connect with me:
+
+<p align="center">
+  <a href="https://www.linkedin.com/in/gimhan-inupa/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+  <a href="https://gimhaninupa.com" target="_blank">
+    <img src="https://img.shields.io/badge/Portfolio-E84545?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Website" />
+  </a>
+</p>
+
+---
+
+### Languages & Tools
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=python,flask,js,html,css,mysql,sqlite,git,github,vscode,aws,docker,postman,photoshop,lightroom" />
+</p>
+
+---
+
+### GitHub Trophies
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=gimhaninupa&theme=gruvbox&no-frame=true&no-bg=true&margin-w=10" />
+</p>
+
+---
+
+### GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=gimhaninupa&show_icons=true&theme=tokyonight&hide_border=true" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=gimhaninupa&theme=tokyonight&hide_border=true" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=gimhaninupa&layout=compact&theme=tokyonight&hide_border=true" />
+</p>
