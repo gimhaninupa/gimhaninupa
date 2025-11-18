@@ -23,11 +23,11 @@
 ### Connect with me:
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/gimhan-inupa/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  <a href="https://www.linkedin.com/in/sandeepa-wimalasiri/" target="_blank">
+    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" height="30" width="40" alt="LinkedIn" />
   </a>
   <a href="https://gimhaninupa.com" target="_blank">
-    <img src="https://img.shields.io/badge/Portfolio-E84545?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Website" />
+    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/website.svg" height="30" width="40" alt="Website" />
   </a>
 </p>
 
