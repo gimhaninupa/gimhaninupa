@@ -36,7 +36,7 @@
 ### Languages & Tools
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=python,flask,js,html,css,mysql,sqlite,git,github,vscode,aws,docker,postman,photoshop,lightroom" />
+  <img src="https://skillicons.dev/icons?i=react,angular,flutter,laravel,nextjs,tailwind,html,css,js,ts,java,cpp,python,c,mysql,mongodb,firebase,aws,azure,gcp,docker,tensorflow,git,github,vscode" />
 </p>
 
 ---
