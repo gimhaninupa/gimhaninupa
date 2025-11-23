@@ -6,16 +6,14 @@
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=F7941D&center=true&vCenter=true&multiline=true&width=600&lines=Frontend+Dev+%7C+AI+Enthusiast+%7C+Cloud+Explorer;" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=F7941D&center=true&vCenter=true&multiline=true&width=600&lines=Full+Stack+Dev+%7C+AI+&+MI+Enthusiast+%7C+Photographer;" alt="Typing SVG" />
 </p>
 
 ---
 
 - 🔭 I’m currently working on **Full Stack Web Apps & AI Models**
-- 🌱 I’m currently learning **Advanced Cloud Architecture & CI/CD Pipelines**
 - 👨‍💻 All of my projects are available on [gimhaninupa.com](https://gimhaninupa.com)
 - 📸 View my photography gallery at [gimhaninupa.com](https://gimhaninupa.com)
-- 💬 Ask me about **Python, Flask, Computer Vision, and Photography**
 - ⚡ **Fun fact**: I debug code by day and capture light by night 🌙
 
 ---
@@ -23,11 +21,8 @@
 ### Connect with me:
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/sandeepa-wimalasiri/" target="_blank">
+  <a href="https://www.linkedin.com/in/gimhan-inupa-samaraweera/" target="_blank">
     <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" height="30" width="40" alt="LinkedIn" />
-  </a>
-  <a href="https://gimhaninupa.com" target="_blank">
-    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/website.svg" height="30" width="40" alt="Website" />
   </a>
 </p>
 
