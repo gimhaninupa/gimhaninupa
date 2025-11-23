@@ -1,5 +1,5 @@
 <h1 align="center">Hi, I'm Gimhan Inupa 👨‍💻📸</h1>
-<h3 align="center">Logic meets Light: Software Engineer & Photographer</h3>
+<h3 align="center">Crafting realities in code and capturing moments in time.</h3>
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=gimhaninupa&label=Profile%20views&color=00ADB5&style=flat" alt="gimhaninupa" />
