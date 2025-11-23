@@ -21,7 +21,7 @@
 ### Connect with me:
 
 <p align="center">
-  <a href="www.linkedin.com/in/gimhan-inupa-samaraweera-199233375/" target="_blank">
+  <a href="https://www.linkedin.com/in/gimhan-inupa-samaraweera-199233375/" target="_blank">
     <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" height="30" width="40" alt="LinkedIn" />
   </a>
 </p>
