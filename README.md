@@ -12,8 +12,9 @@
 ---
 
 - 🔭 I’m currently working on **Full Stack Web Apps & AI Models**
-- 👨‍💻 All of my projects are available on [gimhaninupa.com](https://gimhaninupa.com)
-- 📸 View my photography gallery at [gimhaninupa.com](https://gimhaninupa.com)
+- 👨‍💻 Reach me via: [Gimhan Inupa](https://gimhaninupa.com)
+- 🌐 View my projects & photography gallery at [Gimhan Inupa](https://gimhaninupa.com)
+- 💡 More about me on [LinkedIn](https://www.linkedin.com/in/gimhan-inupa-samaraweera-199233375/)
 - ⚡ **Fun fact**: I debug code by day and capture light by night 🌙
 
 ---
