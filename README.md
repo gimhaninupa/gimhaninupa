@@ -6,7 +6,7 @@
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=F7941D&center=true&vCenter=true&multiline=true&width=600&lines=Full+Stack+Dev+%7C+AI+&+MI+Enthusiast+%7C+Photographer;" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=F7941D&center=true&vCenter=true&multiline=true&width=600&lines=Full+Stack+Dev+%7C+AI&+MI+Enthusiast+%7C+Photographer;" alt="Typing SVG" />
 </p>
 
 ---
@@ -21,7 +21,7 @@
 ### Connect with me:
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/gimhan-inupa-samaraweera/" target="_blank">
+  <a href="www.linkedin.com/in/gimhan-inupa-samaraweera-199233375/" target="_blank">
     <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" height="30" width="40" alt="LinkedIn" />
   </a>
 </p>
