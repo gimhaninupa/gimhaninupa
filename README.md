@@ -42,13 +42,3 @@
 <p align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=gimhaninupa&theme=gruvbox&no-frame=true&no-bg=true&margin-w=10" />
 </p>
-
----
-
-### GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=gimhaninupa&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub Stats" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=gimhaninupa&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=gimhaninupa&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
-</p>
