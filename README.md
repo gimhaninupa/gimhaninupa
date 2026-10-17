@@ -1,9 +1,6 @@
 <h1 align="center">Hi, I'm Gimhan Inupa 👨‍💻📸</h1>
 <h3 align="center">Crafting realities in code and capturing moments in time.</h3>
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=gimhaninupa&label=Profile%20views&color=00ADB5&style=flat" alt="gimhaninupa" />
-</p>
 
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=F7941D&center=true&vCenter=true&multiline=true&width=900&lines=Full+Stack+Dev+%7C+AI+%26+ML+Enthusiast+%7C+Photographer" alt="Typing SVG" />
