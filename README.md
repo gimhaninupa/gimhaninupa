@@ -5,8 +5,8 @@
 <br/>
 <br/><br/>
 
-<a href="https://www.linkedin.com/in/gimhan-inupa-samaraweera-199233375/" target="_blank" title="LinkedIn profile"><img src="assets/social/LinkedIn_icon.svg" width="42" height="42" alt="LinkedIn profile" /></a>&nbsp;
-<a href="https://gimhan-inupa-portfolio.vercel.app/" title="Personal portfolio"><img src="assets/social/logo.jpg" width="42" height="42" alt="Personal portfolio" style="border: 1px solid #333; border-radius: 4px;"/></a>
+<a target="_blank" href="https://www.linkedin.com/in/gimhan-inupa-samaraweera-199233375/" title="LinkedIn profile"><img src="assets/social/LinkedIn_icon.svg" width="42" height="42" alt="LinkedIn profile" /></a>&nbsp;
+<a href="https://gimhan-inupa-portfolio.vercel.app/" title="Personal portfolio"><img src="assets/social/logo.jpg" width="42" height="42" alt="Personal portfolio" /></a>
 
 
 <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=15&duration=2700&pause=900&color=7DD3FC&center=true&vCenter=true&width=760&lines=Software+Engineer+%7C+Full-Stack+Developer;Building+systems+that+turn+ideas+into+reality.;Exploring+AI%2C+cloud%2C+and+creative+technology.;Think+clearly.+Build+boldly.+Keep+learning." alt="Animated developer tagline" />
