@@ -109,7 +109,6 @@ Using light, composition, and perspective to create meaningful visual experience
 <div align="center">
 
 <img width="49%" src="https://github-readme-stats.vercel.app/api?username=gimhaninupa&show_icons=true&hide_border=true&bg_color=07111F&title_color=7DD3FC&icon_color=60A5FA&text_color=E5EDF7&rank_icon=github" alt="GitHub statistics" />
-<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gimhaninupa&layout=compact&hide_border=true&bg_color=07111F&title_color=7DD3FC&text_color=E5EDF7&langs_count=8" alt="Most-used programming languages" />
 
 <br/><br/>
 
