@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="assets/gimhan_hero.gif" width="100%" alt="Animated developer hero for Gimhan Inupa" />
+<img src="assets/gimhan hero 4k.gif" width="100%" alt="Animated developer hero for Gimhan Inupa" />
 
 <br/>
 <br/><br/>
@@ -16,7 +16,7 @@
 
 <div align="center">
 
-<img src="assets/projects-header.png" width="100%" alt="Selected work — eleven software projects" />
+<img src="assets/projects-header.png" width="100%" alt="Selected work — few software projects" />
 
 <br/><br/>
 
