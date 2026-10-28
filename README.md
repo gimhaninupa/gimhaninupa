@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="assets/gimhan-hero.gif" width="100%" alt="Animated developer hero for Gimhan Inupa" />
+<img src="assets/gimhan_hero.gif" width="100%" alt="Animated developer hero for Gimhan Inupa" />
 
 <br/>
 <br/><br/>
