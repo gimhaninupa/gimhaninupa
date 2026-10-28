@@ -68,7 +68,7 @@
 
 <br/><br/>
 
-<img src="https://github-trophies.vercel.app/?username=gimhaninupa&theme=darkhub&no-frame=true&no-bg=true&column=4&margin-w=8" width="100%" alt="GitHub trophies" />
+<img src="https://github-trophies.vercel.app/?username=gimhaninupa&theme=darkhub&no-frame=true&no-bg=true&column=4&margin-w=8" width="80%" alt="GitHub trophies" />
 
 </div>
 
