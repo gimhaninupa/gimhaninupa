@@ -8,7 +8,7 @@
 <a href="https://gimhan-inupa-portfolio.vercel.app/" title="Personal portfolio"><img src="assets/social/logo.svg" width="42" height="42" alt="Personal portfolio" /></a>&nbsp;
 <a href="https://www.linkedin.com/in/gimhan-inupa-samaraweera-199233375/" title="LinkedIn profile"><img src="assets/social/LinkedIn_icon.svg" width="42" height="42" alt="LinkedIn profile" /></a>
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=15&duration=2700&pause=900&color=7DD3FC&center=true&vCenter=true&width=760&lines=Software+Engineer+%7C+Full-Stack+Developer;Building+systems+that+turn+ideas+into+reality.;Exploring+AI%2C+cloud%2C+and+creative+technology.;Think+clearly.+Build+boldly.+Keep+learning." alt="Animated developer tagline" />
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=15&duration=2700&pause=900&color=4584a2&center=true&vCenter=true&width=760&lines=Software+Engineer+%7C+Full-Stack+Developer;Building+systems+that+turn+ideas+into+reality.;Exploring+AI%2C+cloud%2C+and+creative+technology.;Think+clearly.+Build+boldly.+Keep+learning." alt="Animated developer tagline" />
 
 </div>
 
@@ -74,7 +74,7 @@
 
 <div align="center">
 
-### BUILD WITH INTENTION. SHIP WITH PURPOSE.
+### THINK BEYOND THE CODE. BUILD BEYOND THE ORDINARY.
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:07111F,55:12365D,100:07111F&height=110&section=footer" width="100%" alt="Dark blue footer" />
 
