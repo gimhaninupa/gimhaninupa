@@ -22,17 +22,9 @@
 
 <br/><br/>
 
-<a href="https://github.com/gimhaninupa?tab=repositories&q=EcoTrack"><img src="assets/projects/ecotrack.png" width="31%" alt="EcoTrack" /></a>&nbsp;
-<a href="https://github.com/gimhaninupa?tab=repositories&q=EduPilot"><img src="assets/projects/edupilot-ai.png" width="31%" alt="EduPilot AI" /></a>&nbsp;
-<a href="https://github.com/gimhaninupa?tab=repositories&q=ChatterBox"><img src="assets/projects/chatterbox.png" width="31%" alt="ChatterBox" /></a>
-
-<a href="https://github.com/gimhaninupa?tab=repositories&q=VELORA"><img src="assets/projects/velora.png" width="31%" alt="VELORA" /></a>&nbsp;
-<a href="https://github.com/gimhaninupa?tab=repositories&q=FitUnique"><img src="assets/projects/fitunique.png" width="31%" alt="FitUnique" /></a>&nbsp;
-<a href="https://github.com/gimhaninupa?tab=repositories&q=TaskMaster"><img src="assets/projects/taskmaster.png" width="31%" alt="TaskMaster" /></a>
-
-<a href="https://github.com/gimhaninupa?tab=repositories&q=ARCLIGHT"><img src="assets/projects/arclight.png" width="31%" alt="ARCLIGHT" /></a>&nbsp;
 <a href="https://github.com/gimhaninupa?tab=repositories&q=portfolio"><img src="assets/projects/personal-portfolio.png" width="31%" alt="Personal Portfolio" /></a>&nbsp;
-<a href="https://github.com/gimhaninupa?tab=repositories&q=TRENDSPROUT"><img src="assets/projects/trendsprout-ai.png" width="31%" alt="TRENDSPROUT AI" /></a>
+<a href="https://github.com/gimhaninupa?tab=repositories&q=ARCLIGHT"><img src="assets/projects/arclight.png" width="31%" alt="ARCLIGHT" /></a>&nbsp;
+<a href="https://github.com/gimhaninupa?tab=repositories&q=EcoTrack"><img src="assets/projects/ecotrack.png" width="31%" alt="EcoTrack" /></a>
 
 <br/><br/>
 
@@ -73,7 +65,7 @@
 
 <br/><br/>
 
-<img width="80%" src="https://streak-stats.demolab.com?user=gimhaninupa&hide_border=true&background=07111F&ring=60A5FA&fire=7DD3FC&currStreakLabel=7DD3FC&sideLabels=B8C9DF&currStreakNum=FFFFFF&sideNums=FFFFFF&dates=8B9BB2" alt="GitHub streak" />
+<img width="49%" src="https://streak-stats.demolab.com?user=gimhaninupa&hide_border=true&background=07111F&ring=60A5FA&fire=7DD3FC&currStreakLabel=7DD3FC&sideLabels=B8C9DF&currStreakNum=FFFFFF&sideNums=FFFFFF&dates=8B9BB2" alt="GitHub streak" />
 
 <br/><br/>
 
