@@ -4,9 +4,8 @@
 
 <br/>
 
-<a href="https://gimhan-inupa-portfolio.vercel.app/"><img src="https://img.shields.io/badge/PORTFOLIO-EXPLORE-0B2340?style=for-the-badge&logo=vercel&logoColor=7DD3FC" alt="Portfolio" /></a>
-<a href="https://www.linkedin.com/in/gimhan-inupa-samaraweera-199233375/"><img src="https://img.shields.io/badge/LINKEDIN-CONNECT-0B2340?style=for-the-badge&logo=linkedin&logoColor=7DD3FC" alt="LinkedIn" /></a>
-<a href="https://github.com/gimhaninupa?tab=repositories"><img src="https://img.shields.io/badge/GITHUB-REPOSITORIES-0B2340?style=for-the-badge&logo=github&logoColor=FFFFFF" alt="GitHub repositories" /></a>
+<a href="https://www.linkedin.com/in/gimhan-inupa-samaraweera-199233375/" title="LinkedIn profile"><img src="assets/social/linkedin.svg" width="42" height="42" alt="LinkedIn profile" /></a>&nbsp;&nbsp;&nbsp;
+<a href="https://gimhan-inupa-portfolio.vercel.app/" title="Personal portfolio"><img src="assets/social/portfolio.svg" width="42" height="42" alt="Personal portfolio" /></a>
 
 <br/><br/>
 
