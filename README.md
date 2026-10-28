@@ -61,7 +61,7 @@
 <br/><br/>
 
 <img width="30%" src="https://github-readme-stats.vercel.app/api?username=gimhaninupa&show_icons=true&hide_border=true&bg_color=07111F&title_color=7DD3FC&icon_color=60A5FA&text_color=E5EDF7&rank_icon=github" alt="GitHub stats" />
-<img width="30%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gimhaninupa&layout=true&hide_border=true&bg_color=07111F&title_color=7DD3FC&text_color=E5EDF7&langs_count=8" alt="Top languages" />
+<img width="30%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gimhaninupa&layout=compact&hide_border=true&bg_color=07111F&title_color=7DD3FC&text_color=E5EDF7&langs_count=8" alt="Top languages" />
 
 
 <img width="30%" src="https://streak-stats.demolab.com?user=gimhaninupa&hide_border=true&background=07111F&ring=60A5FA&fire=7DD3FC&currStreakLabel=7DD3FC&sideLabels=B8C9DF&currStreakNum=FFFFFF&sideNums=FFFFFF&dates=8B9BB2" alt="GitHub streak" />
