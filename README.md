@@ -5,7 +5,7 @@
 <br/>
 <br/><br/>
 
-<a href="https://www.linkedin.com/in/gimhan-inupa-samaraweera-199233375/" title="LinkedIn profile"><img src="assets/social/linkedin.svg" width="42" height="42" alt="LinkedIn profile" /></a>&nbsp;&nbsp;&nbsp;
+<a href="https://www.linkedin.com/in/gimhan-inupa-samaraweera-199233375/" title="LinkedIn profile"><img src="assets/social/LinkedIn_icon.svg" width="42" height="42" alt="LinkedIn profile" /></a>&nbsp;&nbsp;&nbsp;
 <a href="https://gimhan-inupa-portfolio.vercel.app/" title="Personal portfolio"><img src="assets/social/portfolio.svg" width="42" height="42" alt="Personal portfolio" /></a>
 
 
