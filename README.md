@@ -46,7 +46,7 @@
 
 <br/><br/>
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=13&duration=2600&pause=1000&color=9CB9D5&center=true&vCenter=true&width=650&lines=CODE+%2F+DESIGN+%2F+ARCHITECTURE;LEARN+%2F+ITERATE+%2F+SHIP;CURIOUS+BY+DEFAULT." alt="Build loop" />
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=13&duration=2600&pause=1000&color=257ca6&center=true&vCenter=true&width=650&lines=CODE+%2F+DESIGN+%2F+ARCHITECTURE;LEARN+%2F+ITERATE+%2F+SHIP;CURIOUS+BY+DEFAULT." alt="Build loop" />
 
 </div>
 
