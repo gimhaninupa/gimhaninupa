@@ -1,146 +1,171 @@
-<!--
-  GIMHAN INUPA — GitHub Profile README
-  Signature palette: Charcoal / White / Electric Orange
--->
+ <div align="center">
 
-<div align="center">
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:111827,50:F7941D,100:111827&height=220&section=header&text=GIMHAN%20INUPA&fontSize=48&fontColor=ffffff&fontAlignY=38&desc=SOFTWARE%20ENGINEER%20%7C%20PHOTOGRAPHER&descAlignY=60&descSize=16" width="100%" alt="Gimhan Inupa — Software Engineer and Photographer"/>
+<img src="https://capsule-render.vercel.app/api?type=venom&height=280&color=0:09090B,40:18181B,75:F97316,100:09090B&text=GIMHAN%20INUPA&fontColor=FFFFFF&fontSize=58&fontAlignY=43&desc=ENGINEERING%20DIGITAL%20EXPERIENCES&descSize=14&descAlignY=62&stroke=F97316&strokeWidth=1" width="100%" alt="Gimhan Inupa — personal brand header"/>
 
 <br/>
 
-<a href="https://gimhan-inupa-portfolio.vercel.app/">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=16&duration=3000&pause=900&color=F7941D&center=true&vCenter=true&width=650&lines=I+build+digital+experiences.;I+turn+ideas+into+working+products.;I+capture+stories+through+my+lens.;Engineering+meets+creativity." alt="Animated introduction"/>
-</a>
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=17&duration=2800&pause=900&color=F97316&center=true&vCenter=true&width=750&lines=Software+Engineer+in+the+making.;Building+products%2C+not+just+projects.;Exploring+AI%2C+code%2C+and+creativity.;Photographer+with+an+engineer's+mindset." alt="Animated introduction"/>
 
 <br/>
 
-**Building with logic. Creating with vision.**
-
-*Software Engineering × Creative Technology × Visual Storytelling*
-
-<br/>
-
-<a href="https://gimhan-inupa-portfolio.vercel.app/">
-  <img src="https://img.shields.io/badge/EXPLORE%20MY%20WORLD-F7941D?style=for-the-badge&logo=googlechrome&logoColor=111827" alt="Explore my portfolio"/>
-</a>
-<a href="https://www.linkedin.com/in/gimhan-inupa-samaraweera-199233375/">
-  <img src="https://img.shields.io/badge/LET'S%20CONNECT-FFFFFF?style=for-the-badge&logo=linkedin&logoColor=0A66C2" alt="Connect on LinkedIn"/>
-</a>
+<a href="https://gimhan-inupa-portfolio.vercel.app/"><img src="https://img.shields.io/badge/EXPLORE%20PORTFOLIO-F97316?style=for-the-badge&logo=vercel&logoColor=black" alt="Portfolio"/></a>
+<a href="https://www.linkedin.com/in/gimhan-inupa-samaraweera-199233375/"><img src="https://img.shields.io/badge/CONNECT%20ON%20LINKEDIN-18181B?style=for-the-badge&logo=linkedin&logoColor=0A66C2" alt="LinkedIn"/></a>
+<a href="https://github.com/gimhaninupa?tab=repositories"><img src="https://img.shields.io/badge/EXPLORE%20PROJECTS-18181B?style=for-the-badge&logo=github&logoColor=white" alt="Projects"/></a>
 
 <br/><br/>
 
-<img src="https://komarev.com/ghpvc/?username=gimhaninupa&style=flat-square&color=F7941D&label=PROFILE+VIEWS" alt="Profile views"/>
+<img src="https://komarev.com/ghpvc/?username=gimhaninupa&label=PROFILE%20VISITORS&color=F97316&style=flat-square" alt="Profile visitors"/>
 
 </div>
 
 ---
 
-## `01` — The person behind the code
+<div align="center">
+
+### `01` &nbsp; THE MIND BEHIND THE BUILD
+
+**I build with logic. I create with vision.**
+
+</div>
+
+I'm a Software Engineering undergraduate passionate about transforming ideas into meaningful digital experiences. My world sits at the intersection of **software engineering, emerging technology, and visual storytelling**.
+
+Whether I'm developing a web application, experimenting with AI, refining a user interface, or capturing a moment through my camera, I enjoy turning creative ideas into something real.
+
+<details>
+<summary><b>⌘ A little more about me</b></summary>
+
+<br/>
 
 ```python
 class GimhanInupa:
-    def __init__(self):
-        self.role = "Software Engineering Undergraduate"
-        self.interests = [
-            "Full-Stack Development",
-            "Artificial Intelligence & Machine Learning",
-            "Photography & Visual Storytelling"
-        ]
-        self.mindset = "Build. Experiment. Improve. Repeat."
+    title = "Software Engineer"
+    creative_identity = "Photographer"
 
-    def current_focus(self):
-        return "Turning ideas into meaningful digital experiences"
+    currently_exploring = [
+        "Full-Stack Development",
+        "Artificial Intelligence & Machine Learning",
+        "Creative Technology"
+    ]
 
-    def motto(self):
-        return "Think like an engineer. See like an artist."
+    philosophy = "Think like an engineer. See like an artist."
 ```
 
-I'm a software engineering undergraduate passionate about building useful digital products and exploring the creative possibilities of technology.
+</details>
 
-From developing full-stack applications and experimenting with AI to capturing moments through photography, I enjoy bringing ideas to life through both code and creativity.
+<table>
+<tr>
+<td width="50%" valign="top">
 
-- 🔭 **Currently exploring:** Full-stack applications and AI/ML projects
-- 💻 **I enjoy:** Problem-solving, product development, and clean user experiences
-- 📸 **Beyond code:** Photography, videography, and visual design
-- ⚡ **My philosophy:** Great technology solves problems. Great design makes the solution matter.
+**⌘ ENGINEERING**
+
+- Full-stack web development
+- Database-driven applications
+- Responsive UI/UX experiences
+- AI and ML experimentation
+
+</td>
+<td width="50%" valign="top">
+
+**◉ CREATIVE**
+
+- Photography and visual storytelling
+- Videography and editing
+- Digital design
+- Creative problem-solving
+
+</td>
+</tr>
+</table>
 
 ---
 
-## `02` — My technical toolkit
-
 <div align="center">
 
-**FRONTEND & INTERFACES**
+### `02` &nbsp; MY TECH STACK
 
-<img src="https://skillicons.dev/icons?i=react,angular,nextjs,flutter,html,css,js,ts,tailwind&theme=dark" alt="Frontend technologies"/>
+*The tools I use to turn ideas into reality.*
+
+<br/>
+
+**FRONTEND & APP DEVELOPMENT**
+
+<img src="https://skillicons.dev/icons?i=react,angular,nextjs,flutter,html,css,js,ts,tailwind&theme=dark" alt="Frontend technology icons"/>
 
 <br/><br/>
 
 **BACKEND & PROGRAMMING**
 
-<img src="https://skillicons.dev/icons?i=python,flask,java,cpp,c,laravel&theme=dark" alt="Backend and programming technologies"/>
+<img src="https://skillicons.dev/icons?i=python,flask,laravel,java,cpp,c&theme=dark" alt="Backend and programming icons"/>
 
 <br/><br/>
 
-**DATABASES, CLOUD & DEVOPS**
+**DATA, CLOUD & DEVELOPMENT TOOLS**
 
-<img src="https://skillicons.dev/icons?i=mysql,mongodb,firebase,aws,azure,gcp,docker,git,github,vscode&theme=dark" alt="Databases, cloud, and development tools"/>
+<img src="https://skillicons.dev/icons?i=mysql,mongodb,firebase,aws,azure,gcp,docker,git,github,vscode&theme=dark" alt="Database, cloud and development icons"/>
 
 <br/><br/>
 
 **AI & MACHINE LEARNING**
 
-<img src="https://skillicons.dev/icons?i=tensorflow,python&theme=dark" alt="AI and machine learning tools"/>
+<img src="https://skillicons.dev/icons?i=tensorflow,python&theme=dark" alt="AI and machine learning icons"/>
 
 </div>
 
 ---
 
-## `03` — Beyond the terminal
-
 <div align="center">
 
-| 💻 Engineering | 📷 Creativity |
-|:---|:---|
-| Full-stack application development | Photography & visual storytelling |
-| Database-driven systems | Videography & editing |
-| AI/ML experimentation | Creative design & visual communication |
-| UI/UX and responsive interfaces | Turning moments into lasting memories |
+### `03` &nbsp; SELECTED WORK & CREATIVE WORLD
+
+*Different disciplines. One creative mindset.*
 
 </div>
 
-I believe the best work happens when **technical thinking meets creative vision**.
+<table>
+<tr>
+<td width="50%" valign="top">
+
+<h3>⌘ Software Engineering</h3>
+
+Building applications that combine functionality, thoughtful design, and practical problem-solving.
+
+<br/>
+
+<a href="https://github.com/gimhaninupa?tab=repositories"><img src="https://img.shields.io/badge/01%20%2F%20SOURCE%20CODE-F97316?style=flat-square&logo=github&logoColor=black" alt="Explore source code"/></a>
+
+</td>
+<td width="50%" valign="top">
+
+<h3>◉ Photography & Visuals</h3>
+
+Exploring stories through composition, light, perspective, and cinematic visual experiences.
+
+<br/>
+
+<a href="https://gimhan-inupa-portfolio.vercel.app/"><img src="https://img.shields.io/badge/02%20%2F%20VISUAL%20PORTFOLIO-FFFFFF?style=flat-square&logo=googlechrome&logoColor=black" alt="Explore visual portfolio"/></a>
+
+</td>
+</tr>
+</table>
 
 ---
 
-## `04` — Find me around the web
-
 <div align="center">
 
-<a href="https://github.com/gimhaninupa">
-  <img src="https://img.shields.io/badge/GitHub-Explore%20my%20code-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
-</a>
+### `04` &nbsp; THE GITHUB CONTROL ROOM
 
-<a href="https://gimhan-inupa-portfolio.vercel.app/">
-  <img src="https://img.shields.io/badge/Portfolio-Code%20%26%20Photography-F7941D?style=for-the-badge&logo=vercel&logoColor=111827" alt="Portfolio"/>
-</a>
+*Every contribution is another step forward.*
 
-<a href="https://www.linkedin.com/in/gimhan-inupa-samaraweera-199233375/">
-  <img src="https://img.shields.io/badge/LinkedIn-Let's%20Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
-</a>
+<br/>
 
-</div>
+<img width="49%" src="https://github-readme-stats.vercel.app/api?username=gimhaninupa&show_icons=true&hide_border=true&bg_color=0D1117&title_color=F97316&icon_color=F97316&text_color=E4E4E7&rank_icon=github" alt="GitHub statistics"/>
 
----
+<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gimhaninupa&layout=compact&hide_border=true&bg_color=0D1117&title_color=F97316&text_color=E4E4E7&langs_count=8" alt="Top programming languages"/>
 
-## `05` — The GitHub dashboard
+<br/><br/>
 
-<div align="center">
-
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=gimhaninupa&show_icons=true&hide_border=true&bg_color=0D1117&title_color=F7941D&icon_color=F7941D&text_color=E6EDF3&rank_icon=github" alt="GitHub statistics"/>
-
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gimhaninupa&layout=compact&hide_border=true&bg_color=0D1117&title_color=F7941D&text_color=E6EDF3&langs_count=8" alt="Most-used programming languages"/>
+<img width="75%" src="https://streak-stats.demolab.com?user=gimhaninupa&hide_border=true&background=0D1117&ring=F97316&fire=F97316&currStreakLabel=F97316&sideLabels=E4E4E7&currStreakNum=FFFFFF&sideNums=FFFFFF&dates=8B949E" alt="GitHub contribution streak"/>
 
 <br/><br/>
 
@@ -152,10 +177,21 @@ I believe the best work happens when **technical thinking meets creative vision*
 
 <div align="center">
 
-### `CODE IS HOW I BUILD. PHOTOGRAPHY IS HOW I SEE.`
+### `05` &nbsp; LET'S BUILD SOMETHING MEANINGFUL
 
-*Creating today. Learning every day. Building for tomorrow.*
+**Have an idea, a project, or a creative collaboration in mind?**
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:111827,50:F7941D,100:111827&height=100&section=footer" width="100%" alt="Decorative footer"/>
+I'm always interested in learning, experimenting, and connecting with people who love building things.
+
+<br/>
+
+<a href="https://www.linkedin.com/in/gimhan-inupa-samaraweera-199233375/"><img src="https://img.shields.io/badge/LET'S%20CONNECT-F97316?style=for-the-badge&logo=linkedin&logoColor=black" alt="Connect on LinkedIn"/></a>
+<a href="https://github.com/gimhaninupa"><img src="https://img.shields.io/badge/FOLLOW%20MY%20JOURNEY-18181B?style=for-the-badge&logo=github&logoColor=white" alt="Follow on GitHub"/></a>
+
+<br/><br/>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&height=130&color=0:09090B,50:F97316,100:09090B&section=footer" width="100%" alt="Decorative footer"/>
+
+<sub>DESIGNED BY CURIOSITY · BUILT WITH CODE · INSPIRED BY CREATIVITY</sub>
 
 </div>
