@@ -22,7 +22,7 @@
 
 <br/><br/>
 
-<a href="https://github.com/gimhaninupa?tab=repositories&q=portfolio"><img src="assets/projects/personal-portfolio.png" width="31%" alt="Personal Portfolio" /></a>&nbsp;
+<a href="https://gimhan-inupa-portfolio.vercel.app/"><img src="assets/projects/personal-portfolio.png" width="31%" alt="Personal Portfolio" /></a>&nbsp;
 <a href="https://github.com/gimhaninupa?tab=repositories&q=ARCLIGHT"><img src="assets/projects/arclight.png" width="31%" alt="ARCLIGHT" /></a>&nbsp;
 <a href="https://github.com/gimhaninupa?tab=repositories&q=EcoTrack"><img src="assets/projects/ecotrack.png" width="31%" alt="EcoTrack" /></a>
 
