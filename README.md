@@ -36,7 +36,7 @@
 
 <div align="center">
 
-<img src="assets/stack-header.png" width="100%" alt="Technology toolkit" />
+<img src="assets/stack-header.png" width="90%" alt="Technology toolkit" />
 
 <br/><br/>
 
