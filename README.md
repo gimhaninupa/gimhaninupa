@@ -32,9 +32,6 @@
 
 <a href="https://github.com/gimhaninupa?tab=repositories&q=ARCLIGHT"><img src="assets/projects/arclight.png" width="31%" alt="ARCLIGHT" /></a>&nbsp;
 <a href="https://github.com/gimhaninupa?tab=repositories&q=portfolio"><img src="assets/projects/personal-portfolio.png" width="31%" alt="Personal Portfolio" /></a>&nbsp;
-<a href="https://github.com/gimhaninupa?tab=repositories&q=Hils"><img src="assets/projects/hils-online-store.png" width="31%" alt="Hils Online Store" /></a>
-
-<a href="https://github.com/gimhaninupa?tab=repositories&q=Sandil"><img src="assets/projects/sandil-spices-inventory.png" width="31%" alt="Sandil Spices Inventory" /></a>&nbsp;
 <a href="https://github.com/gimhaninupa?tab=repositories&q=TRENDSPROUT"><img src="assets/projects/trendsprout-ai.png" width="31%" alt="TRENDSPROUT AI" /></a>
 
 <br/><br/>
