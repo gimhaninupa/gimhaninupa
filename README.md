@@ -72,11 +72,11 @@
 
 </div>
 
+---
+
 <div align="center">
 
 ### BUILD WITH INTENTION. SHIP WITH PURPOSE.
-
-<br/><br/>
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:07111F,55:12365D,100:07111F&height=110&section=footer" width="100%" alt="Dark blue footer" />
 
