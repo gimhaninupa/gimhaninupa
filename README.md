@@ -16,7 +16,7 @@
 
 <div align="center">
 
-<img src="assets/projects-header.png" width="100%" alt="Selected work — few software projects" />
+<img src="assets/projects-header.png" width="100%" alt="Selected work — eleven software projects" />
 
 <br/><br/>
 
